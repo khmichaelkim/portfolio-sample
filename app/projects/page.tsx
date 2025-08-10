@@ -8,24 +8,17 @@ import { ExternalLink, Github } from "lucide-react";
 // Sample projects data - replace with your actual projects
 const projects = [
   {
-    name: "Task Management App",
-    description: "A collaborative task management application with real-time updates and team collaboration features.",
-    technologies: ["React", "Node.js", "Socket.io", "MongoDB"],
-    liveUrl: "https://example.com",
-    githubUrl: "https://github.com/username/project2"
+    name: "Portfolio Website",
+    description: "A modern, responsive portfolio website featuring smooth animations, dark mode support, and clean design.",
+    technologies: ["Next.js", "Tailwind CSS", "TypeScript", "Framer Motion", "shadcn/ui"],
+    liveUrl: "https://portfolio-sample-w8gv.vercel.app/",
+    githubUrl: "https://github.com/khmichaelkim/portfolio-sample"
   },
   {
     name: "Observability Demo App",
     description: "A serverless transaction system with fraud detection showcasing AWS observability patterns and monitoring.",
     technologies: ["AWS CDK", "Lambda", "DynamoDB", "API Gateway", "CloudWatch", "Python"],
     githubUrl: "https://github.com/khmichaelkim/agentic-demo-app"
-  },
-  {
-    name: "Portfolio Website",
-    description: "A modern, responsive portfolio website showcasing projects and skills with smooth animations.",
-    technologies: ["Next.js", "Framer Motion", "Tailwind CSS", "TypeScript"],
-    liveUrl: "https://example.com",
-    githubUrl: "https://github.com/username/project4"
   },
 ];
 
