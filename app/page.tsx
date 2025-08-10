@@ -8,7 +8,7 @@ export default function Home() {
       <div className="max-w-2xl mx-auto text-center space-y-8">
         {/* Main greeting with gradient text effect */}
         <h1 className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-sky-500 to-blue-500 bg-clip-text text-transparent">
-          Hi! I'm Michael
+          Hi! I&apos;m Michael
         </h1>
         
         {/* About me paragraph with proper text colors */}
