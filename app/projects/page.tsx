@@ -15,10 +15,10 @@ const projects = [
     githubUrl: "https://github.com/username/project2"
   },
   {
-    name: "Weather Dashboard",
-    description: "A responsive weather dashboard with location-based forecasts and interactive charts.",
-    technologies: ["Vue.js", "Chart.js", "Weather API", "CSS3"],
-    githubUrl: "https://github.com/username/project3"
+    name: "Observability Demo App",
+    description: "A serverless transaction system with fraud detection showcasing AWS observability patterns and monitoring.",
+    technologies: ["AWS CDK", "Lambda", "DynamoDB", "API Gateway", "CloudWatch", "Python"],
+    githubUrl: "https://github.com/khmichaelkim/agentic-demo-app"
   },
   {
     name: "Portfolio Website",
